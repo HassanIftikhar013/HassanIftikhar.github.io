@@ -62,7 +62,6 @@ The Ohio State University.
       - Superiority of 3D MRE over conventional 2D MRE
       - Broader MRE applications enabled with fully 3D wavefield acquisitions
       - Focus on Breast MRE with additional applications shown.
----
 
 ## 🧠 Skills
 
