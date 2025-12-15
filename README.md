@@ -30,18 +30,8 @@ The Ohio State University.
 
 ---
 
-## 📈 Research Projects Project
-
-- 2 years of academic experience in data analysis, with expertise in data cleaning, transformation, and wrangling using **Python (Pandas, NumPy)** and **SQL**
-- Skilled in creating **interactive dashboards** using Tableau and Power BI to communicate insights and support business decisions
-- Strong knowledge of statistical analysis and forecasting techniques
-- Experience working with cross-functional teams in agile environments
-
----
-
 ## 🧪 Research Projects
 
-> 🔽 You can replace the `images/*.png` paths with actual thumbnails from your figures or posters.
 
 ### 1️⃣ DIME – Deep Learning Driven Inversion Framework for Shear Modulus Estimation in MRE
 
@@ -55,10 +45,9 @@ The Ohio State University.
   - Reduced bias vs. traditional inversion methods
   - Sharper recovery of localized stiffness changes (e.g., inclusions, focal lesions)
 - Status:
-  - Journal manuscript *“DIME: Deep Learning Driven Inversion Framework for Shear Modulus Estimation in Magnetic Resonance Elastography”* under review. :contentReference[oaicite:2]{index=2}  
+  - Journal manuscript *“DIME: Deep Learning Driven Inversion Framework for Shear Modulus Estimation in Magnetic Resonance Elastography”* under review in Magnetic Resonance in Medicine (MRM)
 
-> 📌 *Suggestion:* Link this to your code repo or arXiv preprint when public:
-> `[![DIME](images/dime.png)](https://github.com/your-user/dime)`
+[**Github Code Link**](https://github.com/HassanIftikhar013/DIME)
 
 
 
