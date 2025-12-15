@@ -33,7 +33,7 @@ The Ohio State University.
 ## 🧪 Research Projects
 
 
-### 1️⃣ DIME – Deep Learning Driven Inversion Framework for Shear Modulus Estimation in MRE
+### 1️⃣    DIME – Deep Learning Driven Inversion Framework for Shear Modulus Estimation in MRE
 
 [![DIME Project Thumbnail](images/dime.png)](#)
 
@@ -49,6 +49,14 @@ The Ohio State University.
 
 - Code: [**Github Code Link**](https://github.com/HassanIftikhar013/DIME)
 
+### 2️⃣    3D-DIME – Extension of DIME to Volumetric MRE
+
+[![3D-DIME Project Thumbnail](images/3d-dime.png)](#)
+**Scaling DIME to fully 3D volumetric stiffness estimation.**
+
+- Extends the DIME framework from 2D slices to **3D MRE acquisitions**, improving anatomical consistency across slices.
+- Uses 3D volumetric FEM phantoms for liver and brain with 3D  for training.
+- Submitted as an abstract to **ISMRM 2026** focusing on 3D stiffness reconstruction performance.
 
 
 ## 🧠 Skills
