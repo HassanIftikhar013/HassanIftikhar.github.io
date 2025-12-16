@@ -63,6 +63,19 @@ The Ohio State University.
       - Broader MRE applications enabled with fully 3D wavefield acquisitions
       - Focus on Breast MRE with additional applications shown.
 
+### 3️⃣ Deep Learning–based Reconstruction for SMS-Accelerated MRE
+
+[![SMS-MRE Project Thumbnail](images/sms-mre.png)](#)
+**DL reconstruction for Simultaneous Multislice (SMS) MRE to reduce scan time.**
+
+- Developed a deep learning reconstruction pipeline for **SMS-accelerated MRE**, combining:
+  - SMS-EPI acquisition schemes
+  - Learned reconstruction that suppresses aliasing and noise.   
+- Application areas:
+  - **Liver MRE**: reduction in effective breath-hold duration
+  - Ongoing work on **lung MRE** at low field with increased multiband factors
+- Submitted to **ISMRM 2026** (SMS-MRE abstract).
+
 ## 🧠 Skills
 
 **Languages:** Python, R, SQL  
