@@ -121,18 +121,30 @@ Rapid AI-Based Gradient Echo Enhancement for Cardiac Imaging
 
 ---
 
-### 📡 Project Intern — Next Generation Wireless Networking Laboratory (KICS, UET)  
+### Project Intern — Next Generation Wireless Networking Laboratory (KICS, UET)  
 *Lahore, Pakistan | Jun 2021 – Apr 2022*
 
 - Developed a real-time AI-driven railway track anomaly detection system using multimodal sensors and STM32 microcontrollers.
 - Integrated embedded firmware, sensor fusion, and ML-based inference for field-deployable monitoring applications.
 
 ---
-
 ## 🎓 Education
 
-- Bachelor's in Economics and Statistics | [University Name] | June 2016 – Jan 2020 | GPA: 3.7
-- High School., maths | School Name | June 2012 – Jan 2015 | Score: 99%
+### Ph.D. in Computational Imaging and Machine Learning  
+*The Ohio State University, Columbus, OH | Aug 2022 – May 2026*  
+GPA: 3.8 / 4.0  
+
+- Research Interests: Machine Learning, Advanced Signal Processing, Biomedical Imaging, Convex Optimization, Stochastic Processes, Reinforcement Learning
+- Advisors: [Dr. Arunark Kolipaka](linkedin.com/in/arunark-kolipaka-phd-faha-fscmr-501b651b), [Dr. Rizwan Ahmad](https://scholar.google.com/citations?hl=en&user=9mbdAO4AAAAJ&view_op=list_works&sortby=pubdate)
+
+---
+
+### B.S. in Electrical and Computer Engineering  
+*University of Engineering and Technology (UET), Lahore, Pakistan | Oct 2018 – May 2022*  
+GPA: 3.6 / 4.0  
+
+- Areas of Interest: Machine Learning, Embedded Systems, Computer Architecture
+- Advisor: Dr. Muhammad Tahir
 
 ---
 
