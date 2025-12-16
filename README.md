@@ -1,20 +1,10 @@
 ## 👤 Profile Summary 
 
-I work on developing and applying signal processing, optimization, and deep 
-learning techniques for solving inverse problems in magnetic resonance 
-elastography (MRE). My doctoral research focuses on 
-accurate and rapid stiffness estimation using FEM-driven simulation pipelines, 
-physics-informed inverse problem formulations, and accelerated MRE acquisition 
-and reconstruction strategies such as simultaneous multislice (SMS-MRE). 
+I develop signal processing, optimization, and deep learning methods to solve inverse problems in Magnetic Resonance Elastography (MRE). My doctoral research focuses on fast and accurate tissue stiffness estimation using FEM-driven simulation pipelines, physics-informed inverse formulations, and accelerated MRE acquisition and reconstruction strategies, including simultaneous multislice MRE (SMS-MRE).
 
-I also work extensively on recovering high-quality stiffness maps from 
-noisy and highly aliased MRE-wave images through a combination of deep learning models 
-(DIME, 3D-DIME) and DL-based reconstruction. My work integrates 
-MRE physics simulation using FEM, and Deep Learning to improve robustness and 
-clinical feasibility of MRE stiffness mapping. 
+I design deep learning–based inversion and reconstruction frameworks (DIME, 3D-DIME) to recover high-quality stiffness maps from noisy and highly aliased MRE wavefields. By integrating finite-element MRE physics with data-driven models, my work improves the robustness, accuracy, and clinical feasibility of MRE stiffness mapping.
 
-I am co-advised by **Prof. Rizwan Ahmad** and **Prof. Arunark Kolipaka** at 
-The Ohio State University.
+I am co-advised by [Prof. Rizwan Ahmad](https://scholar.google.com/citations?hl=en&user=9mbdAO4AAAAJ&view_op=list_works&sortby=pubdate) and [Prof. Arunark Kolipaka](https://scholar.google.com/citations?user=rhip9d0AAAAJ&hl=en) at The Ohio State University.
 
 ---
 
