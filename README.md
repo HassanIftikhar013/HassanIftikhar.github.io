@@ -74,6 +74,80 @@ The Ohio State University.
   - Ongoing work on lung MRE at low field (0.55T) with increased multiband factors.
 - Submitted abstract to ISMRM 2026.
 
+---
+
+## 📚 Publications & Research Work
+
+### Journal Articles
+
+**DIME: Deep Learning Driven Inversion Framework for Shear Modulus Estimation in Magnetic Resonance Elastography (2025)** 
+- Authors: H. Iftikhar, R. Ahmad, A. Kolipaka  
+- Journal: *Magnetic Resonance in Medicine (MRM)* — under review  
+- Code: GitHub Code Link  
+- Preprint: [https://arxiv.org/abs/2512.13010](https://arxiv.org/abs/2512.13010)  
+
+---
+
+### Peer-Reviewed Conference Abstracts
+
+**DIME: Deep Learning Driven Inversion Framework for Shear Modulus Estimation in Magnetic Resonance Elastography (2026)**  
+- Authors: H. Iftikhar, R. Ahmad, A. Kolipaka  
+- Conference: *International Society for Magnetic Resonance in Medicine (ISMRM) 2026 Annual Meeting*, Cape Town, South Africa  
+- Status: Submitted; anticipated publication in *Proc. Intl. Soc. Mag. Reson. Med.*, Vol. 34  
+- Link: [https://buckeyemail.sharepoint/DIME](https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/iftikhar_15_buckeyemail_osu_edu/IQDKAXtVS70MToL8omNfWuacAabVS4WzjlWtsIllA92UL1E?e=07yM5k)  
+
+**3D-DIME: Deep Learning Driven Inversion Framework for 3D Magnetic Resonance Elastography (2026)**  
+- Authors: H. Iftikhar, R. Ahmad, A. Kolipaka  
+- Conference: *International Society for Magnetic Resonance in Medicine (ISMRM) 2026 Annual Meeting*, Cape Town, South Africa  
+- Status: Submitted; anticipated publication in *Proc. Intl. Soc. Mag. Reson. Med.*, Vol. 34  
+- Link: [https://buckeyemail.sharepoint/3D-DIME](https://buckeyemailosu-my.sharepoint.com/personal/iftikhar_15_buckeyemail_osu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fiftikhar%5F15%5Fbuckeyemail%5Fosu%5Fedu%2FDocuments%2FAbstracts%2F3D%2DDIME%2Dabstract%2D2025%2Epdf&parent=%2Fpersonal%2Fiftikhar%5F15%5Fbuckeyemail%5Fosu%5Fedu%2FDocuments%2FAbstracts&ga=1)  
+
+**Deep Learning–Based Reconstruction for Simultaneous Multislice (SMS)–Accelerated Magnetic Resonance Elastography (2026)**  
+- Authors: H. Iftikhar, R. Ahmad, A. Kolipaka  
+- Conference: *International Society for Magnetic Resonance in Medicine (ISMRM) 2026 Annual Meeting*, Cape Town, South Africa  
+- Status: Submitted; anticipated publication in *Proc. Intl. Soc. Mag. Reson. Med.*, Vol. 34  
+- Link: [https://buckeyemail.sharepoint/SMS-MRE](https://buckeyemailosu-my.sharepoint.com/personal/iftikhar_15_buckeyemail_osu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fiftikhar%5F15%5Fbuckeyemail%5Fosu%5Fedu%2FDocuments%2FAbstracts%2FSMS%2DMRE%2Dabstract%2D2025%2Epdf&parent=%2Fpersonal%2Fiftikhar%5F15%5Fbuckeyemail%5Fosu%5Fedu%2FDocuments%2FAbstracts&ga=1)  
+
+**Curating Dataset for AI-Based Stiffness Estimation in MR Elastography Using Finite Element Modeling and Polynomial Curve Fitting (2025)**  
+- Authors: H. Iftikhar, R. Ahmad, A. Kolipaka  
+- Conference: *International Society for Magnetic Resonance in Medicine (ISMRM) 2025 Annual Meeting*, Honolulu, Hawaiʻi  
+- Publication: *Proc. Intl. Soc. Mag. Reson. Med.*, Vol. 33  
+- Link: [ISMRM’25 Link](https://archive.ismrm.org/2025/4000_8x8Z7BRJ4.html)  
+
+**Revolutionizing MR Elastography: Deep Learning-Powered Stiffness Map Reconstruction from Sparse Wavefield Data (2024)**  
+- Authors: H. Iftikhar, R. Ahmad, A. Kolipaka  
+- Conference: *International Society for Magnetic Resonance in Medicine (ISMRM) 2024 Annual Meeting*, Singapore  
+- Publication: *Proc. Intl. Soc. Mag. Reson. Med.*, Vol. 33  
+- Link: [ISMRM’24 Link](https://archive.ismrm.org/2024/2815.html)  
+
+---
+
+## 🎤 Presentations and Talks
+
+**2026 (Upcoming)**  
+“DIME: Deep Learning Driven Inversion Framework for Shear Modulus Estimation in Magnetic Resonance Elastography”  
+- Hayes Advanced Research Forum, Columbus, OH
+
+---
+
+**2026 (Upcoming)**  
+“DIME: Deep Learning Driven Inversion Framework for Shear Modulus Estimation in Magnetic Resonance Elastography”  
+- ISMRM 2026: Image Reconstruction and AI Session, Cape Town, South Africa
+
+---
+
+**2025**  
+“Curating Dataset for AI-Based Stiffness Estimation in MR Elastography Using Finite Element Modeling and Polynomial Curve Fitting”  
+- ISMRM 2025: Acquisition and Reconstruction Session, Honolulu, Hawaiʻi
+
+---
+
+**2024**  
+“Revolutionizing MR Elastography: Deep Learning-Powered Stiffness Map Reconstruction from Sparse Wavefield Data”  
+- ISMRM 2024: Image Reconstruction and AI Session, Singapore
+
+---
+
 ## 🧠 Skills
 
 - **Machine Learning:** Classification, Regression, Clustering, PCA  
@@ -148,77 +222,6 @@ GPA: 3.6 / 4.0
 
 ---
 
-## 📚 Publications & Research Work
-
-### Journal Articles
-
-**DIME: Deep Learning Driven Inversion Framework for Shear Modulus Estimation in Magnetic Resonance Elastography (2025)** 
-- Authors: H. Iftikhar, R. Ahmad, A. Kolipaka  
-- Journal: *Magnetic Resonance in Medicine (MRM)* — under review  
-- Code: GitHub Code Link  
-- Preprint: [https://arxiv.org/abs/2512.13010](https://arxiv.org/abs/2512.13010)  
-
----
-
-### Peer-Reviewed Conference Abstracts
-
-**DIME: Deep Learning Driven Inversion Framework for Shear Modulus Estimation in Magnetic Resonance Elastography (2026)**  
-- Authors: H. Iftikhar, R. Ahmad, A. Kolipaka  
-- Conference: *International Society for Magnetic Resonance in Medicine (ISMRM) 2026 Annual Meeting*, Cape Town, South Africa  
-- Status: Submitted; anticipated publication in *Proc. Intl. Soc. Mag. Reson. Med.*, Vol. 34  
-- Link: [https://buckeyemail.sharepoint/DIME](https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/iftikhar_15_buckeyemail_osu_edu/IQDKAXtVS70MToL8omNfWuacAabVS4WzjlWtsIllA92UL1E?e=07yM5k)  
-
-**3D-DIME: Deep Learning Driven Inversion Framework for 3D Magnetic Resonance Elastography (2026)**  
-- Authors: H. Iftikhar, R. Ahmad, A. Kolipaka  
-- Conference: *International Society for Magnetic Resonance in Medicine (ISMRM) 2026 Annual Meeting*, Cape Town, South Africa  
-- Status: Submitted; anticipated publication in *Proc. Intl. Soc. Mag. Reson. Med.*, Vol. 34  
-- Link: [https://buckeyemail.sharepoint/3D-DIME](https://buckeyemailosu-my.sharepoint.com/personal/iftikhar_15_buckeyemail_osu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fiftikhar%5F15%5Fbuckeyemail%5Fosu%5Fedu%2FDocuments%2FAbstracts%2F3D%2DDIME%2Dabstract%2D2025%2Epdf&parent=%2Fpersonal%2Fiftikhar%5F15%5Fbuckeyemail%5Fosu%5Fedu%2FDocuments%2FAbstracts&ga=1)  
-
-**Deep Learning–Based Reconstruction for Simultaneous Multislice (SMS)–Accelerated Magnetic Resonance Elastography (2026)**  
-- Authors: H. Iftikhar, R. Ahmad, A. Kolipaka  
-- Conference: *International Society for Magnetic Resonance in Medicine (ISMRM) 2026 Annual Meeting*, Cape Town, South Africa  
-- Status: Submitted; anticipated publication in *Proc. Intl. Soc. Mag. Reson. Med.*, Vol. 34  
-- Link: [https://buckeyemail.sharepoint/SMS-MRE](https://buckeyemailosu-my.sharepoint.com/personal/iftikhar_15_buckeyemail_osu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fiftikhar%5F15%5Fbuckeyemail%5Fosu%5Fedu%2FDocuments%2FAbstracts%2FSMS%2DMRE%2Dabstract%2D2025%2Epdf&parent=%2Fpersonal%2Fiftikhar%5F15%5Fbuckeyemail%5Fosu%5Fedu%2FDocuments%2FAbstracts&ga=1)  
-
-**Curating Dataset for AI-Based Stiffness Estimation in MR Elastography Using Finite Element Modeling and Polynomial Curve Fitting (2025)**  
-- Authors: H. Iftikhar, R. Ahmad, A. Kolipaka  
-- Conference: *International Society for Magnetic Resonance in Medicine (ISMRM) 2025 Annual Meeting*, Honolulu, Hawaiʻi  
-- Publication: *Proc. Intl. Soc. Mag. Reson. Med.*, Vol. 33  
-- Link: [ISMRM’25 Link](https://archive.ismrm.org/2025/4000_8x8Z7BRJ4.html)  
-
-**Revolutionizing MR Elastography: Deep Learning-Powered Stiffness Map Reconstruction from Sparse Wavefield Data (2024)**  
-- Authors: H. Iftikhar, R. Ahmad, A. Kolipaka  
-- Conference: *International Society for Magnetic Resonance in Medicine (ISMRM) 2024 Annual Meeting*, Singapore  
-- Publication: *Proc. Intl. Soc. Mag. Reson. Med.*, Vol. 33  
-- Link: [ISMRM’24 Link](https://archive.ismrm.org/2024/2815.html)  
-
----
-
-## 🎤 Presentations and Talks
-
-**2026 (Upcoming)**  
-“DIME: Deep Learning Driven Inversion Framework for Shear Modulus Estimation in Magnetic Resonance Elastography”  
-- Hayes Advanced Research Forum, Columbus, OH
-
----
-
-**2026 (Upcoming)**  
-“DIME: Deep Learning Driven Inversion Framework for Shear Modulus Estimation in Magnetic Resonance Elastography”  
-- ISMRM 2026: Image Reconstruction and AI Session, Cape Town, South Africa
-
----
-
-**2025**  
-“Curating Dataset for AI-Based Stiffness Estimation in MR Elastography Using Finite Element Modeling and Polynomial Curve Fitting”  
-- ISMRM 2025: Acquisition and Reconstruction Session, Honolulu, Hawaiʻi
-
----
-
-**2024**  
-“Revolutionizing MR Elastography: Deep Learning-Powered Stiffness Map Reconstruction from Sparse Wavefield Data”  
-- ISMRM 2024: Image Reconstruction and AI Session, Singapore
-
----
 
 ## 🤝 Leadership & Service
 
