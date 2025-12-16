@@ -18,12 +18,17 @@ The Ohio State University.
 
 ---
 
+
+
 ## 📬 Connect with Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:khan.hassan13579@gmail.com)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:iftikhar.15@buckeyemail.osu.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-iftikhar-8305a9191/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/HassanIftikhar013)
+[![CV](https://img.shields.io/badge/Resume-CV-4CAF50?logo=readthedocs&logoColor=white)](https://https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/iftikhar_15_buckeyemail_osu_edu/IQA-NxavYZvhRZ7-ziG5ADNtAWXvoh7Lho5YQbgH6ECnZOQ?e=7UmACI)
+
+
 
 
 ---
