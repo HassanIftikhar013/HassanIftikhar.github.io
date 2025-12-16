@@ -1,4 +1,4 @@
-## Hassan Iftikhar
+<img width="468" height="11" alt="image" src="https://github.com/user-attachments/assets/134d737c-238b-4c07-be22-6e5172fb2e8c" /><img width="468" height="148" alt="image" src="https://github.com/user-attachments/assets/0d208d2e-4e0d-473a-8c44-0a18c7ce0faf" /><img width="468" height="148" alt="image" src="https://github.com/user-attachments/assets/b73758e8-4bd8-4ed3-a997-88bca00472b9" />## Hassan Iftikhar
 ### Ph.D. Candidate, Dept. of Biomedical Engineering | The Ohio State University
 
 
@@ -76,36 +76,57 @@ The Ohio State University.
 
 ## 🧠 Skills
 
-**Languages:** Python, R, SQL  
-**Tools & Visualization:** Excel, Looker, Tableau, Power BI, Google Sheets, Jupyter Notebook  
-**Databases:** MySQL, BigQuery  
-**Cloud Platforms:** Google Cloud Platform (GCP)
+**Machine Learning:** Classification, Regression, Clustering, PCA  
+**Deep Learning** CNNs, DNNs, GANs, RNNs, VAEs, LSTMs, Flow Models, Autoregressive Models, Transformers
+**Core Competencies:** Machine Learning, Deep Learning, Image Processing, Signal Processing
+**Programming Languages** Python, C/C++, MATLAB, SQL, Verilog HDL
+**Tools and Platforms** PyTorch, TensorFlow, CUDA, SQL, Django, COMSOL Multiphysics, JMP
+**Embedded Systems:** FreeRTOS,FreeRTOS, Nucleus RTOS, SPI/I2C Protocols, ARM DStream, STM32, Ultrazed Board, RISC-V
 
 ---
 
 ## 💼 Professional Experience
 
-**[Company Name], [Location] — [Position]**  
-*Time Period*
+### Machine Learning & Software Development Intern — BLOMSO  
+*Columbus, OH | May 2025 – Aug 2025*
 
-- Automated classification of healthcare documents using **Python, Tesseract, and Regex**, reducing processing time from 50 mins to 2 mins
-- Built BI dashboards in Looker to automate monthly insurance reports, saving ~20 hours per month
-- Developed dynamic pricing insights using **time series analysis with BQML**, contributing to a **2% YoY revenue growth**
-- Analyzed insurance claims using statistical tests (Chi-square, T-distribution), and cleaned data with Pandas
-- Collaborated closely with engineering and business teams using **Agile/Scrum** methodology
+- Developed an AI-based pipeline to assess soil nutrient levels in agricultural lands.
+- Designed custom data acquisition hardware integrating spectrometers and sensors for on-site soil nutrient measurements.
+- Conducted an extensive literature review and implemented a full end-to-end ML pipeline for soil nutrient prediction under limited-data scenarios.
+- Trained and optimized neural network models for small datasets, achieving accurate nutrient estimation despite sparse field measurements.
 
 ---
 
-## 📈 Featured Project
+### Graduate Research Associate — OSU Wexner Medical Center  
+*Columbus, OH | Aug 2022 – Present*
 
-### 🔍 LinkedIn Job Trends Analyzer  
-*Time Period*
+Rapid AI-Based Gradient Echo Enhancement for Cardiac Imaging  
+- Developed a Plug-and-Play reconstruction framework for Cardiac MRE, enabling ~2× faster acquisition using a CNN-based denoiser within an ADMM optimization framework.
+- Implemented transfer learning by pretraining the denoiser on fully sampled cardiac MRI data and fine-tuning it on Cardiac MRE data to improve reconstruction performance.
 
-- Scraped job postings from LinkedIn using **BeautifulSoup** and stored data in **PostgreSQL**
-- Cleaned and analyzed data using **Pandas**, and built **interactive dashboards** in Tableau
-- Project impacted 200+ students, with 37 successfully landing jobs using insights
+Deep Learning–Based Stiffness Estimation in MR Elastography (MRE)  
+- Developed a state-of-the-art AI-driven pipeline for MRE stiffness map reconstruction using U-Net architectures and FEM-based synthetic datasets, outperforming conventional inversion methods.
+- Applied domain adaptation techniques to bridge simulated and in vivo datasets, ensuring robust performance on real-world clinical data.
+- Published and presented research findings at the International Society for Magnetic Resonance in Medicine (ISMRM) conference.
 
-![LinkedIn Dashboard](/images/image1.png)
+---
+
+### Embedded Firmware Developer — Siemens Digital Industries Software  
+*Lahore, Pakistan | Apr 2022 – Aug 2022*
+
+- Developed software-based testing solutions for validating I2C and SPI communication protocols, reducing reliance on hardware test benches.
+- Simulated master–slave communication using ARM DStream on Ultrazed and BeagleBone Black platforms to streamline testing workflows.
+- Improved system efficiency through advanced debugging, performance analysis, and protocol validation strategies.
+
+
+---
+
+### 📡 Project Intern — Next Generation Wireless Networking Laboratory (KICS, UET)  
+*Lahore, Pakistan | Jun 2021 – Apr 2022*
+
+- Developed a **real-time AI-driven railway track anomaly detection system** using multimodal sensors and **STM32 microcontrollers**.
+- Integrated embedded firmware, sensor fusion, and ML-based inference for field-deployable monitoring applications.
+
 ---
 
 ## 🎓 Education
