@@ -219,3 +219,67 @@ GPA: 3.6 / 4.0
 - ISMRM 2024: Image Reconstruction and AI Session, Singapore
 
 ---
+
+## 🤝 Leadership & Service
+
+**2023 – 2024**  
+Peer Mentor, Peer2Peer Mentoring Program  
+Biomedical Engineering Graduate Student Association (BMEGSA)  
+- Guided incoming PhD students during their transition from undergraduate or master’s programs to graduate research and academic life.
+- Provided support on navigating coursework, advisor communication, and departmental expectations.
+- Helped new students integrate into the BME community through regular check-ins and resource sharing.
+
+---
+
+**2022 – 2024**  
+Mentor, Undergraduate Research Mentorship  
+- Supervised an undergraduate student over one academic year, providing guidance on graduate school admissions and research planning.
+
+---
+
+**2023 – 2025**  
+Speaker, PhD Admissions Guidance Sessions  
+University of Engineering and Technology (UET), Lahore  
+- Hosted annual webinars guiding students on U.S. PhD admissions, application strategy, and research alignment.
+- Invited by IEEE Student Affairs at UET Lahore to share personal academic and research journey (December 2025).
+
+---
+
+**2022**  
+Volunteer & Outreach Lead, Indus Hospital Fundraiser  
+Columbus Convention Center, Columbus, OH  
+- Helped raise $125,000 for flood victims in Pakistan through a large-scale fundraising event (October 2022).
+
+---
+
+**2022 – 2025**  
+Volunteer, International Friendship Inc. (IFI)  
+Columbus, OH  
+- Supported incoming international graduate students with arrival logistics, housing guidance, and orientation to campus and city life.
+- Invited by the International Student Affairs Committee at OSU to share personal transition and graduate journey (March 2025).
+
+---
+
+## 🏅 Honors & Awards
+
+**2022**  
+Distinction in Signals Processing course among 142 students  
+The Ohio State University
+
+---
+
+**2022**  
+Best Project in Computer Engineering Award  
+Department of Electrical Engineering, University of Engineering and Technology (UET), Lahore, Pakistan
+
+---
+
+**2018 – 2022**  
+National Talent Scholarship  
+- Awarded throughout high school and undergraduate studies  
+- Granted to the top 30 students at the state level based on academic performance
+
+---
+
+
+
