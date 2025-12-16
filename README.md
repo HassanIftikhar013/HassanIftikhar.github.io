@@ -40,12 +40,12 @@ The Ohio State University.
 - Trains a U-Net–style model on FEM-generated phantoms to reconstruct shear modulus maps from complex-valued displacement fields. 
 - Evaluated on homogeneous, heterogeneous, and anatomy-informed phantoms as well as in vivo liver MRE data.
 - Demonstrated:
-  - High correlation with ground truth stiffness
-  - Reduced bias vs. traditional inversion methods
-  - Sharper recovery of localized stiffness changes (e.g., inclusions, focal lesions)
-  - Performance for in vivo liver applications
+  - High correlation with ground truth stiffness.
+  - Reduced bias vs. traditional inversion methods.
+  - Sharper recovery of localized stiffness changes (e.g., inclusions, focal lesions).
+  - Performance for in vivo liver applications.
 - Status:
-  - Journal manuscript *“DIME: Deep Learning Driven Inversion Framework for Shear Modulus Estimation in Magnetic Resonance Elastography”* under review in Magnetic Resonance in Medicine (MRM)
+  - Journal manuscript *“DIME: Deep Learning Driven Inversion Framework for Shear Modulus Estimation in Magnetic Resonance Elastography”* under review in Magnetic Resonance in Medicine (MRM).
 
 - Code: [**Github Code Link**](https://github.com/HassanIftikhar013/DIME)
 
@@ -59,21 +59,20 @@ The Ohio State University.
    - Proof of technique demonstrated in abstract submitted to **ISMRM 2026** focusing on 3D stiffness reconstruction performance. [**Abstract Link**](https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/iftikhar_15_buckeyemail_osu_edu/IQB19sSnAYfGS6msOVQwUyv5ASnUST0Gdahftx7S7CFtJkE?e=vs2JRO)
   -  3D-MRE acquisition for breast tumour application is in process.
   -  Journal Manuscript in preparation, demonstrating:
-      - Superiority of 3D MRE over conventional 2D MRE
-      - Broader MRE applications enabled with fully 3D wavefield acquisitions
+      - Superiority of 3D MRE over conventional 2D MRE.
+      - Broader MRE applications enabled with fully 3D wavefield acquisitions.
       - Focus on Breast MRE with additional applications shown.
 
 ### 3️⃣ Deep Learning–based Reconstruction for SMS-Accelerated MRE
 
 [![SMS-MRE Project Thumbnail](images/sms-mre.png)](#)
-
 - Developed a deep learning reconstruction pipeline for **SMS-accelerated MRE**, combining:
-  - SMS-EPI acquisition schemes
+  - SMS-EPI acquisition schemes.
   - Learned reconstruction that suppresses aliasing and noise.   
 - Application areas:
-  - **Liver MRE**: reduction in effective breath-hold duration
-  - Ongoing work on **lung MRE** at low field with increased multiband factors
-- Submitted to **ISMRM 2026** (SMS-MRE abstract).
+  - Liver MRE: reduction in effective breath-hold duration.
+  - Ongoing work on lung MRE at low field (0.55T) with increased multiband factors.
+- Submitted abstract to ISMRM 2026.
 
 ## 🧠 Skills
 
