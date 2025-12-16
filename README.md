@@ -157,6 +157,25 @@ The Ohio State University.
 - **Tools and Platforms:** PyTorch, TensorFlow, CUDA, SQL, Django, COMSOL Multiphysics, JMP  
 - **Embedded Systems:** FreeRTOS, Nucleus RTOS, SPI/I2C Protocols, ARM DStream, STM32, Ultrazed Board, RISC-V  
 
+---
+
+## 🎓 Education
+
+### Ph.D. in Computational Imaging and Machine Learning  
+*The Ohio State University, Columbus, OH | Aug 2022 – April 2027*  
+GPA: 3.8 / 4.0  
+
+- Research Interests: Machine Learning, Advanced Signal Processing, Biomedical Imaging, Convex Optimization, Stochastic Processes, Reinforcement Learning
+- Advisors: [Dr. Arunark Kolipaka](linkedin.com/in/arunark-kolipaka-phd-faha-fscmr-501b651b), [Dr. Rizwan Ahmad](https://scholar.google.com/citations?hl=en&user=9mbdAO4AAAAJ&view_op=list_works&sortby=pubdate)
+
+---
+
+### B.S. in Electrical and Computer Engineering  
+*University of Engineering and Technology (UET), Lahore, Pakistan | Oct 2018 – May 2022*  
+GPA: 3.6 / 4.0  
+
+- Areas of Interest: Machine Learning, Embedded Systems, Computer Architecture
+- Advisor: [Dr. Muhammad Tahir](https://scholar.google.com.pk/citations?user=52OLKmgAAAAJ&hl=en)
 
 ---
 
@@ -200,25 +219,6 @@ Rapid AI-Based Gradient Echo Enhancement for Cardiac Imaging
 
 - Developed a real-time AI-driven railway track anomaly detection system using multimodal sensors and STM32 microcontrollers.
 - Integrated embedded firmware, sensor fusion, and ML-based inference for field-deployable monitoring applications.
-
----
-## 🎓 Education
-
-### Ph.D. in Computational Imaging and Machine Learning  
-*The Ohio State University, Columbus, OH | Aug 2022 – April 2027*  
-GPA: 3.8 / 4.0  
-
-- Research Interests: Machine Learning, Advanced Signal Processing, Biomedical Imaging, Convex Optimization, Stochastic Processes, Reinforcement Learning
-- Advisors: [Dr. Arunark Kolipaka](linkedin.com/in/arunark-kolipaka-phd-faha-fscmr-501b651b), [Dr. Rizwan Ahmad](https://scholar.google.com/citations?hl=en&user=9mbdAO4AAAAJ&view_op=list_works&sortby=pubdate)
-
----
-
-### B.S. in Electrical and Computer Engineering  
-*University of Engineering and Technology (UET), Lahore, Pakistan | Oct 2018 – May 2022*  
-GPA: 3.6 / 4.0  
-
-- Areas of Interest: Machine Learning, Embedded Systems, Computer Architecture
-- Advisor: [Dr. Muhammad Tahir](https://scholar.google.com.pk/citations?user=52OLKmgAAAAJ&hl=en)
 
 ---
 
