@@ -1,3 +1,20 @@
+<div align="center">
+
+<a href="#profile-summary"><button>👤 Profile</button></a>
+<a href="#connect"><button>📬 Connect</button></a>
+<a href="#research"><button>🧪 Research</button></a>
+<a href="#publications"><button>📚 Publications</button></a>
+<a href="#education"><button>🎓 Education</button></a>
+<a href="#skills"><button>🧠 Skills</button></a>
+
+</div>
+
+<br>
+
+
+
+
+<a id="profile-summary"></a>
 ## 👤 Profile Summary 
 
 I develop signal processing, optimization, and deep learning methods to solve inverse problems in Magnetic Resonance Elastography (MRE). My doctoral research focuses on fast and accurate tissue stiffness estimation using FEM-driven simulation pipelines, Deep Learning, and accelerated MRE acquisition and reconstruction strategies, including simultaneous multislice MRE (SMS-MRE).
@@ -9,7 +26,7 @@ I am co-advised by [Prof. Rizwan Ahmad](https://scholar.google.com/citations?hl=
 ---
 
 
-
+<a id="connect"></a>
 ## 📬 Connect with Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:khan.hassan13579@gmail.com)
@@ -25,7 +42,7 @@ I am co-advised by [Prof. Rizwan Ahmad](https://scholar.google.com/citations?hl=
 
 
 ---
-
+<a id="research"></a>
 ## 🧪 Research Projects
 
 
@@ -71,7 +88,7 @@ I am co-advised by [Prof. Rizwan Ahmad](https://scholar.google.com/citations?hl=
 - Submitted abstract to ISMRM 2026.
 
 ---
-
+<a id="publications"></a>
 ## 📚 Publications & Research Work
 
 ### Journal Articles
@@ -143,7 +160,7 @@ I am co-advised by [Prof. Rizwan Ahmad](https://scholar.google.com/citations?hl=
 - ISMRM 2024: Image Reconstruction and AI Session, Singapore
 
 ---
-
+<a id="skills"></a>
 ## 🧠 Skills
 
 - **Machine Learning:** Classification, Regression, Clustering, PCA  
@@ -154,7 +171,7 @@ I am co-advised by [Prof. Rizwan Ahmad](https://scholar.google.com/citations?hl=
 - **Embedded Systems:** FreeRTOS, Nucleus RTOS, SPI/I2C Protocols, ARM DStream, STM32, Ultrazed Board, RISC-V  
 
 ---
-
+<a id="education"></a>
 ## 🎓 Education
 
 ### Ph.D. in Computational Imaging and Machine Learning  
