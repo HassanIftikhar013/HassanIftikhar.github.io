@@ -199,7 +199,7 @@ html {
 
 ---
 <a id="publications"></a>
-## 📚 Publications & Research Work
+<div class="section-header">📚 Publications & Research Work</div>
 
 ### Journal Articles
 
@@ -245,7 +245,7 @@ html {
 
 ---
 <a id="presentations"></a>
-## 🎤 Presentations and Talks
+<div class="section-header"> 🎤 Presentations and Talks</div>
 
 **2026 (Upcoming)**  
 “DIME: Deep Learning Driven Inversion Framework for Shear Modulus Estimation in Magnetic Resonance Elastography”  
@@ -271,7 +271,7 @@ html {
 
 ---
 <a id="skills"></a>
-## 🧠 Skills
+<div class="section-header"> 🧠 Skills</div>
 
 - **Machine Learning:** Classification, Regression, Clustering, PCA  
 - **Deep Learning:** CNNs, DNNs, GANs, RNNs, VAEs, LSTMs, Flow Models, Autoregressive Models, Transformers  
@@ -282,7 +282,7 @@ html {
 
 ---
 <a id="education"></a>
-## 🎓 Education
+<div class="section-header"> 🎓 Education</div>
 
 ### Ph.D. in Computational Imaging and Machine Learning  
 *The Ohio State University, Columbus, OH | Aug 2022 – April 2027*  
@@ -302,7 +302,7 @@ GPA: 3.6 / 4.0
 
 ---
 <a id="experience"></a>
-## 💼 Professional Experience
+<div class="section-header"> 💼 Professional Experience</div>
 
 ### Machine Learning & Software Development Intern — BLOMSO  
 *Columbus, OH | May 2025 – Aug 2025*
@@ -346,7 +346,7 @@ Rapid AI-Based Gradient Echo Enhancement for Cardiac Imaging
 ---
 
 <a id="services"></a>
-## 🤝 Leadership & Service
+<div class="section-header"> 🤝 Leadership & Service</div>
 
 **2023 – 2024**  
 Peer Mentor, Peer2Peer Mentoring Program  
@@ -386,7 +386,7 @@ Columbus, OH
 
 ---
 <a id="awards"></a>
-## 🏅 Honors & Awards
+<div class="section-header"> 🏅 Honors & Awards</div>
 
 **2022**  
 Distinction in Signals Processing course among 142 students  
