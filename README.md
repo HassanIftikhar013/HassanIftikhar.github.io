@@ -48,9 +48,24 @@ html {
 <hr>
 
 
-
-
 <a id="profile-summary"></a>
+<div class="card">
+
+## 👤 Profile Summary
+I develop signal processing, optimization, and deep learning methods to solve inverse problems in Magnetic Resonance Elastography (MRE). My doctoral research focuses on fast and accurate tissue stiffness estimation using FEM-driven simulation pipelines, Deep Learning, and accelerated MRE acquisition and reconstruction strategies, including simultaneous multislice MRE (SMS-MRE).
+
+<div>
+  <span class="badge">MRE Inverse Problems</span>
+  <span class="badge">FEM Simulation</span>
+  <span class="badge">Deep Learning Inversion</span>
+  <span class="badge">SMS-MRE</span>
+  <span class="badge">Reconstruction</span>
+</div>
+
+</div>
+
+
+<!-- <a id="profile-summary"></a>
 ## 👤 Profile Summary 
 
 I develop signal processing, optimization, and deep learning methods to solve inverse problems in Magnetic Resonance Elastography (MRE). My doctoral research focuses on fast and accurate tissue stiffness estimation using FEM-driven simulation pipelines, Deep Learning, and accelerated MRE acquisition and reconstruction strategies, including simultaneous multislice MRE (SMS-MRE).
@@ -59,7 +74,7 @@ I design deep learning–based inversion and reconstruction frameworks (DIME, 3D
 
 I am co-advised by [Prof. Rizwan Ahmad](https://scholar.google.com/citations?hl=en&user=9mbdAO4AAAAJ&view_op=list_works&sortby=pubdate) and [Prof. Arunark Kolipaka](https://scholar.google.com/citations?user=rhip9d0AAAAJ&hl=en) at The Ohio State University.
 
----
+--- -->
 
 
 <a id="connect"></a>
