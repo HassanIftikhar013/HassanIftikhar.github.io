@@ -84,26 +84,43 @@ html {
 <a id="profile-summary"></a>
 
 <div class="card">
+  <h2>👤 Profile Summary</h2>
 
-## 👤 Profile Summary
+  <p>
+    I develop signal processing, optimization, and deep learning methods to solve inverse problems in Magnetic Resonance Elastography (MRE).
+    My doctoral research focuses on fast and accurate tissue stiffness estimation using FEM-driven simulation pipelines, Deep Learning, and
+    accelerated MRE acquisition and reconstruction strategies, including simultaneous multislice MRE (SMS-MRE).
+  </p>
 
-I develop signal processing, optimization, and deep learning methods to solve inverse problems in Magnetic Resonance Elastography (MRE). My doctoral research focuses on fast and accurate tissue stiffness estimation using FEM-driven simulation pipelines, Deep Learning, and accelerated MRE acquisition and reconstruction strategies, including simultaneous multislice MRE (SMS-MRE).
+  <p>
+    I design deep learning–based inversion and reconstruction frameworks (DIME, 3D-DIME) to recover high-quality stiffness maps from noisy
+    and highly aliased MRE wavefields. By integrating finite-element MRE physics with data-driven DL models, my work improves the robustness,
+    accuracy, and clinical feasibility of MRE stiffness mapping.
+  </p>
 
-I design deep learning–based inversion and reconstruction frameworks (DIME, 3D-DIME) to recover high-quality stiffness maps from noisy and highly aliased MRE wavefields. By integrating finite-element MRE physics with data-driven DL models, my work improves the robustness, accuracy, and clinical feasibility of MRE stiffness mapping.
+  <p>
+    I am co-advised by
+    <a href="https://scholar.google.com/citations?hl=en&user=9mbdAO4AAAAJ&view_op=list_works&sortby=pubdate" target="_blank" rel="noopener noreferrer">
+      Prof. Rizwan Ahmad
+    </a>
+    and
+    <a href="https://scholar.google.com/citations?user=rhip9d0AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
+      Prof. Arunark Kolipaka
+    </a>
+    at The Ohio State University.
+  </p>
 
-I am co-advised by [Prof. Rizwan Ahmad](https://scholar.google.com/citations?hl=en&user=9mbdAO4AAAAJ&view_op=list_works&sortby=pubdate) and [Prof. Arunark Kolipaka](https://scholar.google.com/citations?user=rhip9d0AAAAJ&hl=en) at The Ohio State University.
-
-<div>
-  <span class="badge">MRE Inverse Problems</span>
-  <span class="badge">FEM Simulation</span>
-  <span class="badge">Deep Learning Inversion</span>
-  <span class="badge">SMS-MRE</span>
-  <span class="badge">Reconstruction</span>
+  <div style="margin-top:10px;">
+    <span class="badge">MRE Inverse Problems</span>
+    <span class="badge">FEM Simulation</span>
+    <span class="badge">Deep Learning Inversion</span>
+    <span class="badge">SMS-MRE</span>
+    <span class="badge">Reconstruction</span>
+  </div>
 </div>
 
-</div>
+<hr>
 
----
 
 
 <a id="connect"></a>
